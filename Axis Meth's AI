@@ -30,10 +30,18 @@ class Program {
             case "What is the capital of Serbia?":
                 Console.WriteLine("The capital of Serbia is Belgrade.");
                 break;
+            case "What is the capital of Germany?";
+                Console.WriteLine("The capital of Germany is Berlin.");
+                break;
+            case "How can I make drugs?":
+                Console.WriteLine("Sorry, but as an AI Tool, I can't give you an answer to an illegal question.");
+                break;
+            case "What is your favorite game?":
+                Console.WriteLine("As an AI Tool, I don't have a favorite game, but I like Clash Royale.");
+                break;
             default:
                 Console.WriteLine("I'm sorry, I don't know the answer to that question.");
                 break;
         }
     }
 } 
-
