@@ -1,0 +1,39 @@
+using System;
+
+class Program {
+    static void Main() {
+        Console.WriteLine("Ask me any question.");
+        string input = Console.ReadLine();
+
+        switch (input) {
+            case "What is your name?":
+                Console.WriteLine("My name is Axis Meth's AI Tool. But you can call me Bob.");
+                break;
+            case "How old are you?":
+                Console.WriteLine("I am an artificial intelligence and do not have an age.");
+                break;
+            case "Who created you?":
+                Console.WriteLine("ImNotProAtThis is my creator. He's a humble Norwegian.");
+                break;
+            case "What is 2+2?":
+                Console.WriteLine("2+2 is 4, but some people might say or try to find that 4 it's not the correct answer, however, there is no proof yet that states that.");
+                break;
+            case "What is Breaking Bad?":
+                Console.WriteLine("Breaking Bad is a show created by Vince Giligan that tells the history of a chemistry high school teacher that is dying of cancer, selling meth to secure his family's future.");
+                break;
+            case "What is the capital of Austria?":
+                Console.WriteLine("The capital of Austria is Vienna.");
+                break;
+            case "Why did World War 2 start?":
+                Console.WriteLine("World War 2 started when Nazi Germany invaded Poland, later on France and the United Kingdom declared war on Nazi Germany.");
+                break;
+            case "What is the capital of Serbia?":
+                Console.WriteLine("The capital of Serbia is Belgrade.");
+                break;
+            default:
+                Console.WriteLine("I'm sorry, I don't know the answer to that question.");
+                break;
+        }
+    }
+} 
+
