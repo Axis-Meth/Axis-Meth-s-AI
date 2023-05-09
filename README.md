@@ -1,3 +1,5 @@
+UPDATE INFO: Version 0.3 is going to release at the end of June, or maybe at the start of July, and it will contain a full list of History and Geography related questions. Until then, we will keep releasing smaller updates.
+
 Axis Meth is creating a powerful AI Tool that can answer to your questions in a few seconds. 
 
 How to use: In order for this AI to work, everytime you ask a new question, you have to start with a capitalized letter, otherwise it won't work. Capitalized letters do matter if you ask questions about countries, cities, names or other stuff that require a capitalized letter at first.
