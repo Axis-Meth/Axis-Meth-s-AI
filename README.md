@@ -1,4 +1,4 @@
-UPDATE INFO: Version 0.3 is going to release at the end of June, or maybe at the start of July, and it will contain a full list of History and Geography related questions. Until then, we will keep releasing smaller updates.
+UPDATE INFO: Version 0.3 is going to release at the end of June, or maybe at the start of July, and it will contain a full list of History and Geography related questions. Until then, we will keep releasing smaller updates and fixes.
 
 Axis Meth is creating a powerful AI Tool that can answer to your questions in a few seconds. 
 
