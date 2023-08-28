@@ -1,4 +1,4 @@
-UPDATE INFO: Version 0.3 is going to release at the end of June, or maybe at the start of July, and it will contain a full list of History and Geography related questions. Until then, we will keep releasing smaller updates and fixes.
+UPDATE INFO 2: Hey guys, as we promised, the new AI update was supposted to be released in June, but we are still working on it and we are making good progress. We are not going to give release dates anymore, but the ETA is in September 2023. A small fix might roll over the course of these days.
 
 Axis Meth is creating a powerful AI Tool that can answer to your questions in a few seconds. 
 
