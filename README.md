@@ -1,4 +1,4 @@
-UPDATE INFO 2: Hey guys, as we promised, the new AI update was supposted to be released in June, but we are still working on it and we are making good progress. We are not going to give release dates anymore, but the ETA is in September 2023. A small fix might roll over the course of these days.
+UPDATE INFO 3: Hi. It's been some time since last update and I've got some good news for you all. I am back to GitHub and Axis Meth's AI ver 0.3 will get released sometime in Febrary. Untill then, we will role 3 bugfixes updates with new prompts and quality of life fixes.
 
 Axis Meth is creating a powerful AI Tool that can answer to your questions in a few seconds. 
 
