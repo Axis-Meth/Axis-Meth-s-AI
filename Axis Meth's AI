@@ -1,11 +1,15 @@
+// Version 0.2.0.2 (Unstable)
 using System;
 
-class Program {
-    static void Main() {
+class Program
+{
+    static void Main()
+    {
         Console.WriteLine("Ask me any question you'd like:");
         string input = Console.ReadLine();
 
-        switch (input) {
+        switch (input)
+        {
             case "What is your name?":
                 Console.WriteLine("My name is Axis Meth's AI Tool, but you can call me Janko.");
                 break;
@@ -13,7 +17,7 @@ class Program {
                 Console.WriteLine("I am an artificial intelligence and do not have an age.");
                 break;
             case "Who created you?":
-                Console.WriteLine("ImNotProAtThis is my creator. He's a humble Norwegian.");
+                Console.WriteLine("ImNotProAtThis is my creator. He's a humble Swedish.");
                 break;
             case "Where do you live?":
                 Console.WriteLine("As an AI Tool, I don't live in a specific location, but I was created in Norway.");
@@ -46,7 +50,7 @@ class Program {
                 Console.WriteLine("Better Call Saul is a spin-off show of Breaking Bad created by Vince Giligan.");
                 break;
             case "Do you support LGBT?":
-                Console.WriteLine("I do not have an opinion about them, but the way humanity is turning is not good.");
+                Console.WriteLine("I am an AI and I do not have an opinion about such things.");
                 break;
             case "Why did World War 1 start?":
                 Console.WriteLine("Many people speculated that WW1 sstarted after the assasination of Archduke of Austria Hungary, Franz Ferdinand on the 28 of June. WW1 started on the 28 of July, 1914. ");
@@ -54,10 +58,12 @@ class Program {
             case "How can I make money?":
                 Console.WriteLine("The easiest way you can make money is by having a job. There are other ways too.");
                 break;
+            case "What is the biggest religion?":
+                Console.WriteLine("The biggest religion is Christianity with more than 2.4 billion followers.");
+                break;
             default:
                 Console.WriteLine("I am sorry. I don't know the answer to that question yet.");
                 break;
         }
     }
-} 
-
+}
